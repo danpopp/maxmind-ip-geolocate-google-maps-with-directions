@@ -1,7 +1,7 @@
 maxmind-ipgeolocate-google-maps-with-directions
 ===============================================
 
-A mash-up I created using MaxMind IP Geolocation and Google Maps to deliver automatic driving directions and maps from the visitor's approximate location to a destination of your choosing. 
+A JavaScript mash-up I created using MaxMind IP Geolocation and Google Maps to deliver automatic driving directions and maps from the visitor's approximate location to a destination of your choosing. 
 
 ## Pre-requisites:
   - A Google Maps API key.
