@@ -5,7 +5,7 @@ A mash-up I created using MaxMind IP Geolocation and Google Maps to deliver auto
 
 ## Pre-requisites:
   - A Google Maps API key.
-  - A Agreement to MaxMind Terms of Service.
+  - Agreement to the MaxMind Terms of Service.
 
 
 ## Installation
