@@ -11,7 +11,7 @@ A JavaScript mash-up I created using MaxMind IP Geolocation and Google Maps to d
 ## Installation:
   1. Upload demo.html to your webserver.
   2. Replace the API key Portion in between <!--REPLACE WITH YOUR API KEY HERE--> with your own Google Maps API key.
-  3. Replace the destination address in between <!--REPLACE WITH YOUR CUSTOM ADDRESS HERE--> with your custom destination.
+  3. Replace the destination address in between <!--REPLACE WITH YOUR CUSTOM ADDRESS HERE--> with your destination.
   4. Save your changes and that's it, you're done.
 
 
