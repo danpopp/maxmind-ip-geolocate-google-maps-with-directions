@@ -22,3 +22,6 @@ This script was originally designed using Google Maps v2, it can be adapted to w
 
 ## About:
 I built this out during the construction of an auto-body dealership client's website several years ago.
+
+## Demo:
+http://dubows.com/demo.html
