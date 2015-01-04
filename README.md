@@ -1,9 +1,8 @@
-maxmind-ipgeolocate-google-maps-with-directions
-===============================================
-
 # WARNING:
 Max-mind has changed their terms of service since I first published this script (over two years ago). THIS SCRIPT WILL NO LONGER WORK UNLESS YOU PURCHASE A MAX-MIND SUBSCRIPTION. Anyway, there are free alternatives available, checkout the Telize version (I dropped it in my public Github account).
 
+maxmind-ipgeolocate-google-maps-with-directions
+===============================================
 A JavaScript mash-up I created using MaxMind IP Geolocation and Google Maps to deliver automatic driving directions and maps from the visitor's approximate location to a destination of your choosing. 
 
 ## Pre-requisites:
